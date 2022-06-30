@@ -2217,12 +2217,8 @@ input[type='checkbox'] {
 /* Main Header Layout */
 .header-wrapper {
   display: block;
-  /* position: relative; */
-  position: fixed;
-  top: 0;
-  width: 100%;
+  position: relative;
   background-color: rgb(var(--color-background));
-  border: 0px !important;
 }
 
 .header-wrapper--border-bottom {
