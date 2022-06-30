@@ -21,7 +21,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop The Line",
+            "button_label_1": "SHOP THE LINE",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -61,8 +61,8 @@
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
+        "show_view_all": true,
+        "view_all_style": "link",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
@@ -136,11 +136,11 @@
         "show_description": false,
         "description_style": "body",
         "collection": "silk",
-        "products_to_show": 4,
+        "products_to_show": 8,
         "columns_desktop": 4,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "link",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
@@ -176,10 +176,10 @@
         "165660776412038805-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_1": "SHOP LINEN",
+            "button_link_1": "shopify:\/\/collections\/linen",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -191,29 +191,30 @@
         "165660776412038805-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/DSC_8910_1bc57e71-1c4a-40a6-b15b-a2c9fb686d98.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
+        "image_height": "large",
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "16566198811a7c737e": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "linen",
         "products_to_show": 4,
-        "columns_desktop": 4,
+        "columns_desktop": 2,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
