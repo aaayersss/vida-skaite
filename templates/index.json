@@ -50,6 +50,7 @@
     },
     "1656606809f2394e7a": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1656606809030339bc-0": {
           "type": "heading",
@@ -97,6 +98,7 @@
     },
     "165660776499d94db2": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "165660776412038805-0": {
           "type": "heading",
@@ -144,6 +146,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
