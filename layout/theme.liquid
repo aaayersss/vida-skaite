@@ -268,5 +268,19 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+    
+    
+	{% if template == 'index' %}
+	<style>
+
+    .header-wrapper {
+      position: fixed !important;
+      top: 0  !important;
+      width: 100%  !important;
+      border: 0px !important;
+    }
+      
+    {% endif %}
+    
   </body>
 </html>
