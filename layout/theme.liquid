@@ -212,6 +212,36 @@
       document.documentElement.classList.add('shopify-design-mode');
     }
     </script>
+    
+    <!-- NUMBER 5 ANALYTICS START-->
+    <script type="text/javascript">
+      var _number5 = _number5 || [];
+
+      var meta = {
+        refer:document.referrer || "DIRECT",
+        {% if shop.customer_accounts_enabled %}
+          {% if customer %}
+            customer_id : '{{ customer.id }}',
+            email: '{{ customer.email }}',
+            first_name: '{{ customer.first_name }}',
+            last_name: '{{ customer.last_name }}'
+          {% endif %}
+      {% endif %}
+      };
+
+      _number5.push(['trackPageView', document.title || '{{ page_title }}', meta]);
+      _number5.push(['trackConversionEvent', '3307da63da7b4af99bc8fabef698c5e6', 'goal', meta]);
+      (function() {
+        var u="//api.number5.com/";
+        _number5.push(['setTrackerUrl', u+'analytics/api/events/push']);
+        _number5.push(['setSiteId', 'S-VS9ME4XPK']);
+        _number5.push(['trackAllContentImpressions']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'public/number520190214b.min.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <!-- NUMBER 5 ANALYTICS END -->
+    
   </head>
 
   <body class="gradient">
