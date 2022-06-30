@@ -158,7 +158,7 @@
           "footer-1"
         ],
         "settings": {
-          "color_scheme": "inverse",
+          "color_scheme": "background-1",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe",
           "show_social": true,
