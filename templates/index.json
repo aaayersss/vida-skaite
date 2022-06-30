@@ -98,10 +98,10 @@
         "1656606809030339bc-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_1": "SHOP SILK",
+            "button_link_1": "shopify:\/\/collections\/silk",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -113,16 +113,18 @@
         "1656606809030339bc-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/DSC_8721.jpg",
+        "image_2": "shopify:\/\/shop_images\/DSC_9010_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "16566198531b27e1c0": {
