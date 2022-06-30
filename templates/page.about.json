@@ -48,7 +48,7 @@
         "image": "shopify:\/\/shop_images\/DSC_8308_a64946e2-da51-4f3e-bc1a-55cdc78f1541.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -76,6 +76,7 @@
         },
         "16566208721dcbf706-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -99,11 +100,57 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1656620981151f170c": {
+      "type": "image-with-text",
+      "blocks": {
+        "16566209810f0edb50-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sustainability",
+            "heading_size": "h2"
+          }
+        },
+        "16566209810f0edb50-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>VIDA SKAITE is redefining what fashion means for our planet. Waste is a thing of the past, so our pieces are all made-to-order and can be made-to-measure. While this does extend the amount of time it takes for things to reach you, it also means that everything is uniquely made. When it comes to our fabrics, everything is lush and sustainable, and leftover materials are used to make our hair accessories, face masks, and garment bags. Our production process takes place in a high-vibe setting in DTLA, and all of our packaging is made from recyclable, natural materials. We believe in the power of relationships, which means everyone—from our female-led team to our visual artists to our community—matters. By seeing our brand as a part of a bigger movement, we’re here to bring you clothing with a conscience.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16566209810f0edb50-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16566209810f0edb50-0",
+        "16566209810f0edb50-1",
+        "16566209810f0edb50-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC_8534.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "main",
     "1656620803f7a31848",
-    "1656620872398a6160"
+    "1656620872398a6160",
+    "1656620981151f170c"
   ]
 }
