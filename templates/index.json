@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "A minimalistic universe of good outfits and planet-friendly choices",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text": {
@@ -40,7 +40,7 @@
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
