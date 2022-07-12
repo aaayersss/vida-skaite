@@ -62,9 +62,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
-            "icon": "silhouette",
-            "content": "",
+            "heading": "Materials & Care",
+            "icon": "dryer",
+            "content": "<p>She is 100% linen; 100% silk lining<\/p><p>Eco dry clean only<\/p>",
             "page": ""
           }
         },
