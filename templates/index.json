@@ -196,13 +196,13 @@
         "image": "shopify:\/\/shop_images\/DSC_8910_1bc57e71-1c4a-40a6-b15b-a2c9fb686d98.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
