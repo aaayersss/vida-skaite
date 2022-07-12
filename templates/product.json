@@ -77,6 +77,15 @@
             "page": ""
           }
         },
+        "8eb1e7c8-230c-4266-8801-19a765b0013a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Quostions",
+            "icon": "question_mark",
+            "content": "<p>Need a slight adjustment? Please <span style=\"text-decoration:underline\">drop us a note<\/span> for our made-to-measure option or sizing advice<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
@@ -105,6 +114,7 @@
         "collapsible-row-3",
         "collapsible-row-0",
         "collapsible-row-1",
+        "8eb1e7c8-230c-4266-8801-19a765b0013a",
         "collapsible-row-2",
         "share"
       ],
