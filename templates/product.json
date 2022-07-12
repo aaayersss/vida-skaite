@@ -50,21 +50,12 @@
           "settings": {
           }
         },
-        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2": {
+        "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Made to Order",
-            "icon": "heart",
-            "content": "<p>Please note that all dresses are hand made by our meticulous seamstresses, therefore each item is unique. Due to our personalized production process, it may take up to two weeks for the piece to reach you<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Materials & Care",
-            "icon": "dryer",
-            "content": "<p>She is 100% linen; 100% silk lining<\/p><p>Eco dry clean only<\/p>",
+            "heading": "Fit & Measurements",
+            "icon": "ruler",
+            "content": "<p>Maya is wearing size XS. Her measurements: height 6’, bust 30, waist 25, hips 3<\/p><p>Product measurements (size S): Length 55”, Bust 34”, Waist 27”<\/p>",
             "page": ""
           }
         },
@@ -77,12 +68,21 @@
             "page": ""
           }
         },
-        "collapsible-row-3": {
+        "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Fit & Measurements",
-            "icon": "ruler",
-            "content": "<p>Katelyn is wearing size S. Her measurements:  height 5.10’, bust 32,\" waist 27\", hips 37<\/p><p>Product measurements (size S): Length 34”, Bust 40”, Waist 32”, Sleeve 26 ½<\/p>",
+            "heading": "Materials & Care",
+            "icon": "dryer",
+            "content": "<p>She is 100% linen; 100% silk lining<\/p><p>Eco dry clean only<\/p>",
+            "page": ""
+          }
+        },
+        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Made to Order",
+            "icon": "heart",
+            "content": "<p>Please note that all dresses are hand made by our meticulous seamstresses, therefore each item is unique. Due to our personalized production process, it may take up to two weeks for the piece to reach you<\/p>",
             "page": ""
           }
         },
@@ -102,10 +102,10 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2",
-        "collapsible-row-0",
-        "collapsible-row-1",
         "collapsible-row-3",
+        "collapsible-row-1",
+        "collapsible-row-0",
+        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2",
         "share"
       ],
       "settings": {
