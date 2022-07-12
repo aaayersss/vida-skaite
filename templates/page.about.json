@@ -48,7 +48,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/DSC_8308_a64946e2-da51-4f3e-bc1a-55cdc78f1541.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -65,8 +65,8 @@
         "16566208721dcbf706-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>VÍDA SKAÍTE<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>About the Line<\/p>",
+            "heading_size": "h2"
           }
         },
         "16566208721dcbf706-1": {
@@ -135,11 +135,11 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSC_8534.jpg",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "right",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
