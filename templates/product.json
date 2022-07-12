@@ -77,21 +77,21 @@
             "page": ""
           }
         },
+        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "heart",
+            "content": "<p>Please note that all dresses are hand made by our meticulous seamstresses, therefore each item is unique. Due to our personalized production process, it may take up to two weeks for the piece to reach you<\/p>",
+            "page": ""
+          }
+        },
         "8eb1e7c8-230c-4266-8801-19a765b0013a": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Quostions",
             "icon": "question_mark",
             "content": "<p>Need a slight adjustment? Please <span style=\"text-decoration:underline\">drop us a note<\/span> for our made-to-measure option or sizing advice<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
             "page": ""
           }
         },
@@ -114,8 +114,8 @@
         "collapsible-row-3",
         "collapsible-row-0",
         "collapsible-row-1",
+        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2",
         "8eb1e7c8-230c-4266-8801-19a765b0013a",
-        "collapsible-row-2",
         "share"
       ],
       "settings": {
