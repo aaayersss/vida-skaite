@@ -50,6 +50,15 @@
           "settings": {
           }
         },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Fit & Measurements",
+            "icon": "ruler",
+            "content": "<p>Katelyn is wearing size S. Her measurements:  height 5.10’, bust 32,\" waist 27\", hips 37<\/p><p>Product measurements (size S): Length 34”, Bust 40”, Waist 32”, Sleeve 26 ½<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -77,15 +86,6 @@
             "page": ""
           }
         },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -102,10 +102,10 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "collapsible-row-3",
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
         "share"
       ],
       "settings": {
