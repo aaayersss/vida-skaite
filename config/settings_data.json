@@ -132,7 +132,7 @@
           "show_line_separator": false,
           "enable_sticky_header": true,
           "margin_bottom": 0,
-          "padding_top": 20,
+          "padding_top": 32,
           "padding_bottom": 20
         }
       },
