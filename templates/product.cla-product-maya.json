@@ -64,7 +64,7 @@
           "settings": {
             "heading": "Materials & Care Intructions",
             "icon": "dryer",
-            "content": "<p>She is 100% silk<\/p><p>100% silk lining<\/p><p>Eco dry clean only<\/p>",
+            "content": "<p>She is 100% linen<\/p><p>100% silk lining<\/p><p>Eco dry clean only<\/p>",
             "page": ""
           }
         },
@@ -73,7 +73,7 @@
           "settings": {
             "heading": "Fit & Measurements",
             "icon": "ruler",
-            "content": "<p>Maya is wearing a size XS<\/p><p>Model Measurements: Height 6’, Bust 30, Waist 25, Hips 33<\/p><p>Product Measurements (Size S): Length 36 1\/2”, Bust 43”, Waist 38”, Sleeve 26 ½<\/p>",
+            "content": "<p>Maya is wearing a size XS<\/p><p>Model Measurements: Height 6’, Bust 30, Waist 25, Hips 33<\/p><p>Product Measurements (Size S): Length 26”, Bust 32”, Waist 29”, Sleeve 19 ½<\/p>",
             "page": ""
           }
         },
