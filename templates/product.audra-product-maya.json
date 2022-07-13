@@ -50,15 +50,6 @@
           "settings": {
           }
         },
-        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Made to Order",
-            "icon": "heart",
-            "content": "<p>Please note that all dresses are hand-made by our meticulous seamstresses, therefore each item is unique. Due to our personalized production process, it may take up to two weeks for the piece to reach you.<\/p>",
-            "page": ""
-          }
-        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -86,6 +77,15 @@
             "page": ""
           }
         },
+        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Made to Order",
+            "icon": "heart",
+            "content": "<p>Please note that all dresses are hand-made by our meticulous seamstresses, therefore each item is unique. Due to our personalized production process, it may take up to two weeks for the piece to reach you.<\/p>",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -102,10 +102,10 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2",
         "collapsible-row-0",
         "collapsible-row-3",
         "collapsible-row-1",
+        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2",
         "share"
       ],
       "settings": {
