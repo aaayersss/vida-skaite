@@ -123,7 +123,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "logo": "{{ shop.brand.logo }}",
           "logo_width": 150,
           "logo_position": "middle-left",
