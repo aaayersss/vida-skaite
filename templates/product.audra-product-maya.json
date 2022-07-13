@@ -50,21 +50,12 @@
           "settings": {
           }
         },
-        "collapsible-row-3": {
+        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Fit & Measurements",
-            "icon": "ruler",
-            "content": "<p>Maya is wearing a size XS<\/p><p>Model Measurements: Height 6’, Bust 30, Waist 25, Hips 33<\/p><p>Product Measurements (Size S): Length 36 1\/2”, Bust 43”, Waist 38”, Sleeve 26 ½<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Country of Origin",
-            "icon": "map_pin",
-            "content": "<p>All of our products are designed and made in Los Angeles, CA<\/p>",
+            "heading": "Made to Order",
+            "icon": "heart",
+            "content": "<p>Please note that all dresses are hand-made by our meticulous seamstresses, therefore each item is unique. Due to our personalized production process, it may take up to two weeks for the piece to reach you.<\/p>",
             "page": ""
           }
         },
@@ -77,12 +68,21 @@
             "page": ""
           }
         },
-        "8d1f6361-61ca-4c7e-a497-38feaae5f4e2": {
+        "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Made to Order",
-            "icon": "heart",
-            "content": "<p>Please note that all dresses are hand-made by our meticulous seamstresses, therefore each item is unique. Due to our personalized production process, it may take up to two weeks for the piece to reach you.<\/p>",
+            "heading": "Country of Origin",
+            "icon": "map_pin",
+            "content": "<p>All of our products are designed and made in Los Angeles, CA<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Fit & Measurements",
+            "icon": "ruler",
+            "content": "<p>Maya is wearing a size XS<\/p><p>Model Measurements: Height 6’, Bust 30, Waist 25, Hips 33<\/p><p>Product Measurements (Size S): Length 36 1\/2”, Bust 43”, Waist 38”, Sleeve 26 ½<\/p>",
             "page": ""
           }
         },
@@ -102,10 +102,10 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-3",
-        "collapsible-row-1",
-        "collapsible-row-0",
         "8d1f6361-61ca-4c7e-a497-38feaae5f4e2",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-3",
         "share"
       ],
       "settings": {
