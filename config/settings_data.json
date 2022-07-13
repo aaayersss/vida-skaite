@@ -85,8 +85,8 @@
     "accent_icons": "text",
     "social_twitter_link": "",
     "social_facebook_link": "",
-    "social_pinterest_link": "",
-    "social_instagram_link": "",
+    "social_pinterest_link": "https:\/\/pinterest.com\/vidaskaite",
+    "social_instagram_link": "http:\/\/instagram.com\/vidaskaite",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
@@ -142,7 +142,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "",
+              "heading": "Quick Link",
               "menu": "footer"
             }
           },
@@ -153,14 +153,22 @@
               "heading": "Info",
               "menu": "footer"
             }
+          },
+          "1fd4e650-daa1-4af5-9f03-b17a94952cc6": {
+            "type": "text",
+            "settings": {
+              "heading": "Our mission",
+              "subtext": "<p>We’re here to remind you that what you wear matters. Our collective vision of a more creative and sustainable planet is possible through choosing fashion wisely<\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1"
+          "footer-1",
+          "1fd4e650-daa1-4af5-9f03-b17a94952cc6"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe",
           "show_social": true,
