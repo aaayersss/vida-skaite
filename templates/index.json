@@ -5,6 +5,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "A minimalistic universe of good outfits and planet-friendly choices",
             "heading_size": "h2"
@@ -12,9 +13,8 @@
         },
         "text": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "A minimalistic universe of good outfits and planet-friendly choices",
             "text_style": "body"
           }
         },
