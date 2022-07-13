@@ -53,7 +53,7 @@
         "8d1f6361-61ca-4c7e-a497-38feaae5f4e2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Made to Order",
+            "heading": "All Items are Made to Order",
             "icon": "heart",
             "content": "<p>Please note that all dresses are hand-made by our meticulous seamstresses, therefore each item is unique. Due to our personalized production process, it may take up to two weeks for the piece to reach you.<\/p>",
             "page": ""
@@ -62,7 +62,7 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials & Care",
+            "heading": "Materials & Care Intructions",
             "icon": "dryer",
             "content": "<p>She is 100% silk<\/p><p>100% silk lining<\/p><p>Eco dry clean only<\/p>",
             "page": ""
