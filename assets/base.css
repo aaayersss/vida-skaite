@@ -1400,11 +1400,7 @@ button.shopify-payment-button__button--unbranded {
 }
 
 .button {
-    border: 1px solid #373838;
-}
-
-.button:hover {
-    border: 1px solid #373830;
+    border: 1px solid #373838 !important;
 }
 
 .button--tertiary {
