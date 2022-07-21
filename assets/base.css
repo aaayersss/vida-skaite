@@ -1403,6 +1403,10 @@ button.shopify-payment-button__button--unbranded {
     border: 1px solid #373838;
 }
 
+.button:hover {
+    border: 1px solid #373830;
+}
+
 .button--tertiary {
   font-size: 1.2rem;
   padding: 1rem 1.5rem;
