@@ -319,8 +319,8 @@
   .banner--desktop-transparent .banner__box {
     background: transparent;
     color: #f0e3c3 !important;
-    --color-foreground: 255, 255, 255;
-    --color-button: 255, 255, 255;
+    --color-foreground: #f0e3c3;
+    --color-button: #f0e3c3;
     --color-button-text: 0, 0, 0;
     max-width: 89rem;
     border: none;
@@ -329,8 +329,8 @@
   }
 
   .banner--desktop-transparent .button--secondary {
-    --color-button: 255, 255, 255;
-    --color-button-text: 255, 255, 255;
+    --color-button: #f0e3c3;
+    --color-button-text: #f0e3c3;
     --alpha-button-background: 0;
   }
 
