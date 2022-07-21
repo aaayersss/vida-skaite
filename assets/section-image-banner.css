@@ -194,6 +194,7 @@
     --color-foreground: #f0e3c3;
     --color-button: #f0e3c3;
     --color-button-text: #f0e3c3;
+    color: #f0e3c3;
   }
 
   .banner:not(.banner--mobile-bottom) .banner__box {
