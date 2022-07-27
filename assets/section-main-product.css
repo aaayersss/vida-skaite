@@ -1189,3 +1189,7 @@ a.product__text {
   border: 1px solid #000 !important;
   box-shadow: none !important;
 }
+
+#product-form-template--14875154448418__main > div > button:hover {
+  background-color: none !important;
+}
