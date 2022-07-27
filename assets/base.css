@@ -2905,3 +2905,8 @@ details-disclosure > details {
   background: #fff !important;
   background-color: #fff !important;
 }
+
+#product-form-template--14875162738722__main > div > button {
+  background-color: #000;
+  color: #fff;
+}
