@@ -13,6 +13,9 @@
     max-width: 36rem;
     text-align: left;
   }
+  .footer-block__heading {
+    text-align: left;
+  }
 }
 
 .newsletter-form__field-wrapper {
