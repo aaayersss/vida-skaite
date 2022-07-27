@@ -1488,6 +1488,7 @@ details[open] > .share-button__fallback {
   cursor: pointer;
   background-color: transparent;
   border: none;
+  color: #333;
 }
 
 .share-button__button .icon-share {
