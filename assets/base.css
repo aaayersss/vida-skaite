@@ -2916,6 +2916,6 @@ details-disclosure > details {
   border: 1px solid #000;
 }
 
-#CartDrawer-Item-1 > td.cart-item__quantity > div.cart-item__quantity-wrapper > quantity-input {
+.cart-item > td.cart-item__quantity > div.cart-item__quantity-wrapper > quantity-input {
   background-color: transparent !important;
 }
