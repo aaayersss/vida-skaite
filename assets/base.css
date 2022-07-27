@@ -2900,3 +2900,8 @@ details-disclosure > details {
 .header__heading-link-index {
         display: none !important;
       }  
+
+.white-bg {
+  background: #fff !important;
+  background-color: #fff !important;
+}
