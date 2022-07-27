@@ -324,6 +324,6 @@ cart-remove-button .icon-remove {
   }
 }
 
-.cart-remove-button .icon-remove {
-  color: #333;
+.cart-remove-button {
+  color: #333 !important;
 }
