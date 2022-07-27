@@ -3,7 +3,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "padding_top": 36,
+        "padding_top": 28,
         "padding_bottom": 0
       }
     },
@@ -12,9 +12,9 @@
       "settings": {
         "heading": "",
         "heading_size": "h2",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 100
+        "color_scheme": "background-2",
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     }
   },
