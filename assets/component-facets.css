@@ -250,7 +250,7 @@
   border-color: rgba(var(--color-foreground), var(--popup-border-opacity));
   border-radius: var(--popup-corner-radius);
   box-shadow: var(--popup-shadow-horizontal-offset) var(--popup-shadow-vertical-offset) var(--popup-shadow-blur-radius) rgba(var(--color-shadow), var(--popup-shadow-opacity));
-  background-color: rgb(var(--color-background));
+  background-color: #fff;
   position: absolute;
   top: calc(100% + 0.5rem);
   left: -1.2rem;
@@ -267,7 +267,7 @@
   font-size: 1.4rem;
   position: sticky;
   top: 0;
-  background-color: rgb(var(--color-background));
+  background-color: #fff;
   z-index: 1;
 }
 
@@ -311,7 +311,7 @@
 }
 
 .facet-checkbox > svg {
-  background-color: rgb(var(--color-background));
+  background-color: #fff;
   margin-right: 1.2rem;
   flex-shrink: 0;
 }
@@ -331,7 +331,7 @@
 @media screen and (forced-colors: active) {
   .facet-checkbox > svg {
     background-color: inherit;
-    border: 0.1rem solid rgb(var(--color-background));
+    border: 0.1rem solid #fff;
   }
 
   .facet-checkbox > input[type='checkbox']:checked ~ .icon-checkmark {
@@ -480,17 +480,12 @@ a.active-facets__button.focused,
 }
 
 a.active-facets__button:focus-visible .active-facets__button-inner {
-  box-shadow: 0 0 0 0.1rem rgba(var(--color-foreground), 0.2),
-    0 0 0 0.2rem rgb(var(--color-background)),
-    0 0 0 0.4rem rgb(var(--color-foreground));
+
   outline: none;
 }
 
 a.active-facets__button.focused .active-facets__button-inner,
 .no-js a.active-facets__button:focus .active-facets__button-inner {
-  box-shadow: 0 0 0 0.1rem rgba(var(--color-foreground), 0.2),
-    0 0 0 0.2rem rgb(var(--color-background)),
-    0 0 0 0.4rem rgb(var(--color-foreground));
   outline: none;
 }
 
@@ -572,7 +567,7 @@ a.active-facets__button.focused .active-facets__button-inner,
 }
 
 .mobile-facets__inner {
-  background-color: rgb(var(--color-background));
+  background-color: #fff;
   width: calc(100% - 5rem);
   margin-left: auto;
   height: 100%;
@@ -832,7 +827,7 @@ input.mobile-facets__checkbox {
 }
 
 .mobile-facets__label > svg {
-  background-color: rgb(var(--color-background));
+  background-color: #fff;
   position: relative;
   z-index: 2;
   margin-right: 1.2rem;
@@ -868,7 +863,7 @@ input.mobile-facets__checkbox {
   display: flex;
   z-index: 2;
   margin-top: auto;
-  background-color:rgb(var(--color-background));
+  background-color:#fff;
   background: var(--gradient-background);
 }
 
