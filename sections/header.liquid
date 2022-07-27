@@ -372,7 +372,7 @@
     {%- if request.page_type == 'index' or page.url == '/pages/about' -%}
       <h1 class="header__heading">
     {%- endif -%}
-        {% if template == 'index' %}
+        {% if template == 'index' or page.url == '/pages/about'%}
         <a href="{{ routes.root_url }}" class="header__heading-link-index link link--text focus-inset">
           {%- if section.settings.logo != blank -%}
 <img src="//cdn.shopify.com/s/files/1/0577/8699/0626/files/VIDA-SKAITE-CREME.png?v=1656609922" alt="VÍDA SKAÍTE" srcset="//cdn.shopify.com/s/files/1/0577/8699/0626/files/VIDA-SKAITE-CREME.png?v=1656609922&amp;width=50 50w, //cdn.shopify.com/s/files/1/0577/8699/0626/files/VIDA-SKAITE-CREME.png?v=1656609922&amp;width=100 100w, //cdn.shopify.com/s/files/1/0577/8699/0626/files/VIDA-SKAITE-CREME.png?v=1656609922&amp;width=150 150w, //cdn.shopify.com/s/files/1/0577/8699/0626/files/VIDA-SKAITE-CREME.png?v=1656609922&amp;width=200 200w, //cdn.shopify.com/s/files/1/0577/8699/0626/files/VIDA-SKAITE-CREME.png?v=1656609922&amp;width=250 250w, //cdn.shopify.com/s/files/1/0577/8699/0626/files/VIDA-SKAITE-CREME.png?v=1656609922&amp;width=300 300w, //cdn.shopify.com/s/files/1/0577/8699/0626/files/VIDA-SKAITE-CREME.png?v=1656609922&amp;width=400 400w, //cdn.shopify.com/s/files/1/0577/8699/0626/files/VIDA-SKAITE-CREME.png?v=1656609922&amp;width=500 500w" width="160" height="24.673189823874758" class="header__heading-logo">          {%- else -%}
