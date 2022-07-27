@@ -323,3 +323,7 @@ cart-remove-button .icon-remove {
     width: 60%;
   }
 }
+
+.cart-remove-button .icon-remove {
+  color: #333;
+}
