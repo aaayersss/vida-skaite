@@ -300,7 +300,7 @@
     {%- endif -%}
     
     
-	{% if template == 'index' or page.url == '/pages/about' %}
+	{% if template == 'index' %}
 	<style>
 
     .header-wrapper {
@@ -324,6 +324,18 @@
 
       
     {% endif %}
+
+    {% if page.url == '/pages/about' %}
+	<style>
+
+    .header-wrapper {
+      position: fixed !important;
+      top: 0  !important;
+      width: 100%  !important;
+      background: none !important;
+    }
+    {% endif %}  
+      
     
   </body>
 </html>
