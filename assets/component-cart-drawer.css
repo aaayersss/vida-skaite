@@ -330,7 +330,7 @@ cart-drawer-items {
 
 .cart-drawer .cart__checkout-button {
   max-width: none;
-  color: #f0e3ce !important;
+  color: #fff !important;
 }
 
 .drawer__footer .cart__dynamic-checkout-buttons {
