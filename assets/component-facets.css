@@ -1104,3 +1104,7 @@ input.mobile-facets__checkbox {
     padding: 0 1rem 1rem;
   }
 }
+
+.icon-filter {
+  color: #333;
+}
