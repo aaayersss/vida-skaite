@@ -335,7 +335,7 @@
     --color-button: #f0e3c3;
     --color-button-text: #f0e3c3;
     --alpha-button-background: 0;
-    border: 1px solid #f0e3c3;
+    border: 1px solid #f0e3c3 !important;
     color: #f0e3c3;
   }
 
