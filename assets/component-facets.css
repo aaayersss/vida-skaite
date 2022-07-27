@@ -864,7 +864,7 @@ input.mobile-facets__checkbox {
   z-index: 2;
   margin-top: auto;
   background-color:#fff;
-  background: var(--gradient-background);
+  background: #fff;
 }
 
 .mobile-facets__footer > * + * {
