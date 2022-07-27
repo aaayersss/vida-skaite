@@ -385,6 +385,6 @@ cart-drawer-items::-webkit-scrollbar-track-piece {
   margin-top: 31px;
 }
 
-.button {
+.cart-remove-button .icon-remove {
   color: #333;
 }
