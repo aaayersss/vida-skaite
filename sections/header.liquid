@@ -369,7 +369,7 @@
       </details-modal>
     {%- endif -%}
 
-    {%- if request.page_type == 'index' -%}
+    {%- if request.page_type == 'index' or page.url == '/pages/about' -%}
       <h1 class="header__heading">
     {%- endif -%}
         {% if template == 'index' %}
