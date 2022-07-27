@@ -20,7 +20,7 @@
   width: 40rem;
   max-width: calc(100vw - 3rem);
   padding: 0 1.5rem;
-  border: 0.1rem solid rgba(var(--color-foreground), 0.2);
+  border: 0.1rem solid #fff);
   border-right: 0;
   background-color: #fff;
   overflow: hidden;
@@ -92,7 +92,7 @@ cart-drawer:not(.is-empty) .cart-drawer__collection {
   position: absolute;
   top: 10px;
   right: -10px;
-  color: rgb(var(--color-foreground));
+  color: #000;
   background-color: transparent;
   border: none;
   cursor: pointer;
@@ -115,7 +115,7 @@ cart-drawer:not(.is-empty) .cart-drawer__collection {
 
 .drawer__footer {
   background-color: #fff;
-  border-top: 0.1rem solid rgba(var(--color-foreground), 0.2);
+  border-top: 0.1rem solid #fff);
   padding: 1.5rem 0;
 }
 
@@ -125,7 +125,7 @@ cart-drawer-items.is-empty + .drawer__footer {
 
 .drawer__footer > details {
   margin-top: -1.5rem;
-  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.2);
+  border-bottom: 0.1rem solid #fff);
 }
 
 .drawer__footer > details[open] {
@@ -377,7 +377,7 @@ cart-drawer-items::-webkit-scrollbar {
 }
 
 cart-drawer-items::-webkit-scrollbar-thumb {
-  background-color: rgba(var(--color-foreground), 0.7);
+  background-color: #fff;
   border-radius: 100px;
 }
 
