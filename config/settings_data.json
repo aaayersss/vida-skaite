@@ -3,7 +3,7 @@
     "colors_solid_button_labels": "#f0e3ce",
     "colors_accent_1": "#373838",
     "gradient_accent_1": "",
-    "colors_accent_2": "#f0e3ce",
+    "colors_accent_2": "rgba(0,0,0,0)",
     "gradient_accent_2": "",
     "colors_text": "#373838",
     "colors_outline_button_labels": "#f0e3ce",
