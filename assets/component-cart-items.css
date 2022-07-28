@@ -129,6 +129,7 @@ cart-remove-button .button {
   padding: 0;
   margin: 0 0.1rem 0.1rem 0;
   border: 0px !important;
+  color: #373838 !important;
 }
 
 cart-remove-button .button:before,
@@ -137,7 +138,7 @@ cart-remove-button .button:after  {
 }
 
 cart-remove-button .button:not([disabled]):hover {
-  color: rgb(var(--color-foreground));
+  color: #373838;
 }
 
 @media screen and (min-width: 750px) {
