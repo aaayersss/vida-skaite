@@ -1952,7 +1952,7 @@ input[type='checkbox'] {
   border-radius: var(--inputs-radius);
   min-height: calc((var(--inputs-border-width) * 2) + 4.5rem);
   background: #fff;
-  border: 1px solid #000;
+  border: 0px solid #000;
   box-shadow: none !important;
   
 }
