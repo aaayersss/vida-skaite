@@ -141,7 +141,7 @@ cart-remove-button .button:not([disabled]):hover {
   color: #373838;
 }
 
-cart-remove button:hover {
+cart-remove-button:hover {
   border: 0px !important;
 }
 
